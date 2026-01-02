@@ -115,9 +115,8 @@ DETECTED FRAME BY MODEL
 ![WhatsApp Image 2025-11-04 at 11 08 48 AM](https://github.com/user-attachments/assets/3bcacf9e-8e0b-4378-a094-e673e4d7d878)
 ![WhatsApp Image 2025-11-04 at 11 07 27 AM](https://github.com/user-attachmen<img width="2879" height="1470" alt="Screenshot 2025-12-08 005622" src="https://github.com/user-attachments/assets/76bab397-3a16-4cef-94e9-fc6ecec2ea9d" />
 ts/assets/81e85288-d9bf-47fe-98cb-87847dd29924)
- ![WhatsApp Image 2025-11-04 at 11 07 21_0fa6ba79](https://github.com/user-attachments/assets/78e8ac44-09a4-41c0-97e7-65fc95c199d0)
- NFC BASED ALERTS 
- ![WhatsApp Image 2025-11-04 at 11 07 20_3f62db50](https://github.com/user-attachments/assets/e6ec4dbc-12e7-4219-95cd-4550a2c2ac1d)
+(https://github.com/user-attachments/assets/78e8ac44-09a4-41c0-97e7-65fc95c199d0)
+(https://github.com/user-attachments/assets/e6ec4dbc-12e7-4219-95cd-4550a2c2ac1d)
  WEAPON DETECTION
  <img width="1329" height="998" alt="Al and ML enabled video analysis and interpretation" src="https://github.com/user-attachments/assets/1295baa7-7c59-4039-8467-ba51c079778b" />
 
