@@ -111,12 +111,15 @@ Drishti is built by a student AI/full-stack team with experience in **5+ hackath
 Demo video link : https://drive.google.com/file/d/1cMjR3T5IVEEZhz06oLIh2fxDM_sK3OJz/view?usp=drive_link
 LANDING PAGE 
 <img width="2879" height="1466" alt="Screenshot 2025-10-12 024117" src="https://github.com/user-attachments/assets/8d6b0767-61af-447d-95dc-af359c66802b" />
+
+
 DETECTED FRAME BY MODEL
-![WhatsApp Image 2025-11-04 at 11 08 48 AM](https://github.com/user-attachments/assets/3bcacf9e-8e0b-4378-a094-e673e4d7d878)
-![WhatsApp Image 2025-11-04 at 11 07 27 AM](https://github.com/user-attachmen<img width="2879" height="1470" alt="Screenshot 2025-12-08 005622" src="https://github.com/user-attachments/assets/76bab397-3a16-4cef-94e9-fc6ecec2ea9d" />
-ts/assets/81e85288-d9bf-47fe-98cb-87847dd29924)
-(https://github.com/user-attachments/assets/78e8ac44-09a4-41c0-97e7-65fc95c199d0)
-(https://github.com/user-attachments/assets/e6ec4dbc-12e7-4219-95cd-4550a2c2ac1d)
+
+![WhatsApp Image 2025-11-04 at 11 08 48 AM](https://github.com/user-attachments/assets/bf7a9032-1d7a-44a9-a588-079b176017cb)
+
+
+
+
  WEAPON DETECTION
  <img width="1329" height="998" alt="Al and ML enabled video analysis and interpretation" src="https://github.com/user-attachments/assets/1295baa7-7c59-4039-8467-ba51c079778b" />
 
