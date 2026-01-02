@@ -116,7 +116,13 @@ LANDING PAGE
 DETECTED FRAME BY MODEL
 
 ![WhatsApp Image 2025-11-04 at 11 08 48 AM](https://github.com/user-attachments/assets/bf7a9032-1d7a-44a9-a588-079b176017cb)
+![WhatsApp Image 2025-11-04 at ![WhatsApp Image 2025-11-04 at 11 07 22_21770070](https://github.com/user-attachments/assets/37c09659-d44f-4a9f-bc8d-ebf7b4de4e4c)
+11 08 48 AM](https://github.com/user-attachments/assets/a61ec719-3140-4ac4-9f6e-3fcded3e71ea)
 
+
+NFC BASEDE ALERTS
+
+<img width="2879" height="1470" alt="Screenshot 2025-12-08 005622" src="https://github.com/user-attachments/assets/96801454-491c-47ab-a480-37ad19dffc0c" />
 
 
 
